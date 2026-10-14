@@ -40,6 +40,11 @@ The data type in the 'amount_zl' column was changed to 'Currency'.
 
 <img width="829" height="162" alt="image" src="https://github.com/user-attachments/assets/e84cc731-c60d-41b0-9d5f-6d5f3525680b" />
 
+
+<img width="1375" height="457" alt="image" src="https://github.com/user-attachments/assets/b08f2398-7258-4ec2-aae0-023fdd3aba9d" />
+
+90% of the data has a value of 19 in the amount_zl column. The remaining values occur much less frequently.
+
 4. Replace Values -> translate values from polish to english
 
 <img width="702" height="307" alt="image" src="https://github.com/user-attachments/assets/11c5d77f-2159-4e39-83af-0fd6afd4ec79" />
