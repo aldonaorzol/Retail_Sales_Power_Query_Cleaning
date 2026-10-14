@@ -1,4 +1,4 @@
-<h1 align="center">Sales_Data_Power_Query_Cleaning</h1>
+<h1 align="center">Retail_Sales_Power_Query_Cleaning</h1>
 
 ### Table:
 - order_ID,
